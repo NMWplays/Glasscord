@@ -617,6 +617,7 @@ div#popout_52 {
 .wrapper__2ea32 .link__2ea32 {
     transition: box-shadow 0.2s ease, transform 0.2s ease;
     border-radius: 13px;
+    width: 99%;
 }
 
 .wrapper__2ea32:hover .link__2ea32 {
@@ -624,6 +625,7 @@ div#popout_52 {
     box-shadow: var(--glass-shadow);
     border-radius: 13px;
     transform: scale(1.02);
+    width: 99%;
 }
 
 .wrapper__260e1,
@@ -3163,4 +3165,116 @@ button.addButton__29444.forceVisible__29444.button__201d5.lookBlank__201d5.color
 .bannerButton_de8008:active,
 .bannerButton_de8008:hover {
     background: #00000021;
+}
+
+.container__0b563,
+.header__0b563 {
+    background: transparent;
+    background-color: transparent;
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.text-xs\/normal_cf4812,
+.text-md\/medium_cf4812 {
+    color: white !important;
+}
+
+.prompt__5d7c9 {
+    background-color: transparent;
+    border: none;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.optionButtonWrapper__270d7 {
+    background-color: transparent;
+    border: none;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.pageBody__41ed7 {
+    background: transparent;
+    background-color: transparent;
+}
+
+.channelRow_e4503a {
+    background-color: transparent;
+    border: none;
+    box-shadow: var(--glass-shadow);
+}
+
+.firstChannel_e4503a {
+    border-start-end-radius: 20px;
+    border-start-start-radius: 20px;
+}
+
+.lastChannel_e4503a {
+    border-end-end-radius: 20px;
+    border-end-start-radius: 20px;
+}
+
+.overlay-primary_a22cb0 {
+    background-color: transparent;
+}
+
+.overlay-primary_a22cb0:hover {
+    background-color: #ffffff17;
+}
+
+.textBadge__2b1f5.base__2b1f5.eyebrow__2b1f5.baseShapeRound__2b1f5 {
+    background-color: transparent !important;
+    box-shadow: var(--glass-shadow);
+}
+
+.upload_aa605f {
+    background: transparent;
+    background-color: transparent;
+    border: none;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.bannerColor_fb7f94 {
+    background: transparent;
+}
+
+.bannerColor_fb7f94:active,
+.bannerColor_fb7f94:hover {
+    background: #00000026;
+}
+
+.chatHeaderBar_dc83f5 {
+    background-color: transparent;
+}
+
+.embedCard_b99f57 {
+    background-color: transparent;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.profileCard__5d7c9 {
+    background-color: transparent;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.role__5d7c9 {
+    background-color: transparent;
+    box-shadow: var(--glass-shadow);
+}
+
+.page_c791b2 {
+    background-color: transparent;
+}
+
+.mainTableContainer__09a38 {
+    background: transparent;
+    border: none;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
 }
