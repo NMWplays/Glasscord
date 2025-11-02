@@ -6,7 +6,7 @@ It combines soft blur effects, subtle brightness, and smooth animations to creat
 
 ✨ Features
 
-- Beautiful frosted glass look with adjustable blur and brightness
+- Beautiful Liquid Glass look with adjustable blur and brightness
 - Smooth transitions and motion effects
 - Rounded corners for a modern UI feel
 - Fully compatible with Vencord and BetterDiscord
