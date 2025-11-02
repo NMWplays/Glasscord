@@ -1,1 +1,25 @@
 @import url("https://nmwplays.github.io/Glasscord/Glasscord.css");
+
+/**
+ * @name Glasscord
+ * @author NMWplays
+ * @version 1.0.0
+ * @description A clean Liquid Glass inspired Theme with smooth animations.
+*/
+
+/* ===============================================
+   🌫️ Glasscord Theme Settings
+   Adjust your transparency effects here:
+   -----------------------------------------------
+   🔹 --blur-strength: Controls how strong the glass blur is
+   🔹 --brightness-level: Controls how bright the glass appears
+   -----------------------------------------------
+   Example:
+   --blur-strength: 2rem;        (Blur)
+   --brightness-level: 0.8;      (Brightness)
+=============================================== */
+
+:root {
+    --blur-strength: 7px;
+    --brightness-level: 0.8;
+}
