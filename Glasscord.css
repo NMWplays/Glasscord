@@ -180,7 +180,7 @@
 
 .sidebarList__5e434 {
     border-radius: 20px !important;
-    height: 92%;
+    height: calc(100% - 56px - 22px);
 }
 
 .searchBar_e6b769 {
@@ -837,7 +837,9 @@ div#\:r1u7\:,
 .nowPlayingAdd_cc46f0,
 .lastPlayed_cc46f0,
 .placeholder__1b31f,
-.text-xs\/medium_cf4812 {
+.text-xs\/medium_cf4812,
+.badge_c3d04b,
+.limitedTimeBadge_c3d04b.badgeLeftAligned_c3d04b.textBadge__2b1f5.base__2b1f5.eyebrow__2b1f5.baseShapeRound__2b1f5 {
     color: white !important;
 }
 
@@ -3278,4 +3280,44 @@ button.addButton__29444.forceVisible__29444.button__201d5.lookBlank__201d5.color
     border-radius: 20px;
     box-shadow: var(--glass-shadow);
     backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+}
+
+form.authBoxExpanded__921c5.authBox__921c5.theme-dark.images-dark.disable-adaptive-theme {
+    background-color: transparent;
+    border-radius: 20px;
+    border: none;
+    box-shadow: var(--glass-shadow);
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+}
+
+section.authBox__921c5.theme-dark.images-dark.disable-adaptive-theme.chooseAccountAuthBox_df9c06 {
+    background-color: transparent;
+    border-radius: 20px;
+    border: none;
+    box-shadow: var(--glass-shadow);
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+}
+
+.list__920b8 {
+    background-color: transparent;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+section.authBox__921c5.theme-dark.images-dark.disable-adaptive-theme {
+    background-color: transparent;
+    border-radius: 20px;
+    border: none;
+    box-shadow: var(--glass-shadow);
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+}
+
+.listItemContainer__7c901 {
+    border: none;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.expressive_a22cb0 .expressiveFill_a22cb0 {
+    background-color: transparent;
 }
