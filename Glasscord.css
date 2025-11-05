@@ -3519,12 +3519,6 @@ svg.icon_a22cb0 {
     box-shadow: var(--glass-shadow) !important;
 }
 
-.loadingPopout__58f1c {
-    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
-    border-radius: 15px;
-    box-shadow: var(--glass-shadow);
-}
-
 .popover_d6f39b,
 .popoverGradientWrapper_d6f39b {
     border-radius: 20px;
@@ -3534,5 +3528,11 @@ svg.icon_a22cb0 {
 
 .popoverContentWithGradient_d6f39b {
     border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.loadingPopout__58f1c {
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+    border-radius: 15px;
     box-shadow: var(--glass-shadow);
 }
