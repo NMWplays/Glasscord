@@ -3524,3 +3524,15 @@ svg.icon_a22cb0 {
     border-radius: 15px;
     box-shadow: var(--glass-shadow);
 }
+
+.popover_d6f39b,
+.popoverGradientWrapper_d6f39b {
+    border-radius: 20px;
+    box-shadow: none;
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+}
+
+.popoverContentWithGradient_d6f39b {
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
