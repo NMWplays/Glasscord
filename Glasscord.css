@@ -3512,3 +3512,8 @@ svg.icon_a22cb0 {
     background-color: transparent;
     box-shadow: var(--glass-shadow);
 }
+
+.autocomplete__13533 {
+    border-radius: 20px !important;
+    box-shadow: var(--glass-shadow) !important;
+}
