@@ -3553,3 +3553,42 @@ svg.icon_a22cb0 {
     box-shadow: var(--glass-shadow);
     border-radius: 15px;
 }
+
+.icon__07f91,
+.username__07f91 {
+    color: white !important;
+}
+
+img.thumbnail__0f2e8 {
+    border-radius: 15px;
+}
+
+.container_e928f4 {
+    background: transparent;
+    border: none;
+    border-radius: 15px;
+    box-shadow: var(--glass-shadow);
+}
+
+.container_e928f4:before {
+    background: transparent;
+}
+
+.noiseCancellationPopout_e131a9 {
+    background: transparent;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+}
+
+.embed__623de code {
+    background: transparent;
+    border: none;
+    box-shadow: var(--glass-shadow);
+    border-radius: 5px !important;
+}
+
+.rem__82f07.botTag__82f07 {
+    border-radius: 5px;
+    box-shadow: var(--glass-shadow);
+}
