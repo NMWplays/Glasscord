@@ -3592,3 +3592,7 @@ img.thumbnail__0f2e8 {
     border-radius: 5px;
     box-shadow: var(--glass-shadow);
 }
+
+.listDefault__07f91 .clickable__07f91:hover .clanTag__07f91 {
+    background: transparent;
+}
