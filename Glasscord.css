@@ -3635,3 +3635,9 @@ button.button_a22cb0.sm_a22cb0.active_a22cb0.hasText_a22cb0.fullWidth_a22cb0 {
     box-shadow: var(--glass-shadow);
     border-radius: 12px;
 }
+
+.detectedGameFrame_d77702 {
+    background: transparent;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
