@@ -3641,3 +3641,7 @@ button.button_a22cb0.sm_a22cb0.active_a22cb0.hasText_a22cb0.fullWidth_a22cb0 {
     border-radius: 20px;
     box-shadow: var(--glass-shadow);
 }
+
+.button__24af7, .button_e6e74f, .attachButton__0923f {
+    color: white !important;
+}
