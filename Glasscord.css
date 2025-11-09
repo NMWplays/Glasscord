@@ -3647,3 +3647,39 @@ button.button_a22cb0.sm_a22cb0.active_a22cb0.hasText_a22cb0.fullWidth_a22cb0 {
 .attachButton__0923f {
     color: white !important;
 }
+
+.wrapper_e9b191 {
+    background-color: transparent;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.rewardTile_e9b191 {
+    border-radius: 20px;
+}
+
+.showMoreButton__84832 {
+    background-color: transparent;
+    box-shadow: var(--glass-shadow);
+}
+
+.clickableContainer__39ec2:hover>.card__39ec2 {
+    background: transparent;
+    box-shadow: var(--glass-shadow) !important;
+}
+
+.firstCardContainer__84832.hasShowMoreButton__84832 .card__84832 {
+    box-shadow: var(--glass-shadow) !important;
+}
+
+.gameTile_e9b191 {
+    border-radius: 10px;
+}
+
+.gradientContainer_bfe55a {
+    background-image: none;
+}
+
+.contextMenuNub_f1ceac.attachedCaret_f1ceac {
+    box-shadow: var(--glass-shadow) !important;
+}
