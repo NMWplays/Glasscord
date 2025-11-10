@@ -3683,3 +3683,11 @@ button.button_a22cb0.sm_a22cb0.active_a22cb0.hasText_a22cb0.fullWidth_a22cb0 {
 .contextMenuNub_f1ceac.attachedCaret_f1ceac {
     box-shadow: var(--glass-shadow) !important;
 }
+
+.expressiveRive_a22cb0 {
+    opacity: 0;
+}
+
+.expressive_a22cb0>* {
+    border-radius: 13px;
+}
