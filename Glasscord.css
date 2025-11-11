@@ -3700,3 +3700,21 @@ button.button_a22cb0.sm_a22cb0.active_a22cb0.hasText_a22cb0.fullWidth_a22cb0 {
 .custom-user-profile-theme.user-profile-modal-v2 .inner_c0bea0 {
     box-shadow: var(--glass-shadow);
 }
+
+.friendRequestsButton__523aa {
+    background-color: transparent;
+    border-radius: 13px;
+    box-shadow: var(--glass-shadow);
+}
+
+.controlButton_ab6641 {
+    border-radius: 13px;
+    background-color: transparent;
+    box-shadow: var(--glass-shadow);
+}
+
+.primary__06eda, 
+.secondary__06eda, 
+.tertiary__06eda {
+    background-color: transparent;
+}
