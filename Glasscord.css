@@ -3696,3 +3696,7 @@ button.button_a22cb0.sm_a22cb0.active_a22cb0.hasText_a22cb0.fullWidth_a22cb0 {
 .expressive_a22cb0>* {
     border-radius: 13px;
 }
+
+.custom-user-profile-theme.user-profile-modal-v2 .inner_c0bea0 {
+    box-shadow: var(--glass-shadow);
+}
