@@ -3718,3 +3718,10 @@ button.button_a22cb0.sm_a22cb0.active_a22cb0.hasText_a22cb0.fullWidth_a22cb0 {
 .tertiary__06eda {
     background-color: transparent;
 }
+
+.row__6fddf:hover {
+    background-color: transparent;
+    box-shadow: var(--glass-shadow);
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
