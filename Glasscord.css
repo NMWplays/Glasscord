@@ -3804,3 +3804,8 @@ button.close_e50a4d.close__49fc1.button__201d5.lookBlank__201d5.colorBrand__201d
 .activitySectionAssets__00943 .largeImage__00943 {
     border-radius: 10px;
 }
+
+.headerIcon__00943,
+.multipleIconWrapper__00943 {
+    border-radius: 7px;
+}
