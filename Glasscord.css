@@ -1,34 +1,14 @@
 :root {
     --blur-strength: 7px;
     --brightness-level: 0.8;
-}
-
-
-:root {
     --glass-shadow:
         inset 1px 1px 4px hsla(0, 0%, 100%, .3),
         inset -1px -1px 6px hsla(0, 0%, 0%, .1),
         0 4px 12px hsla(0, 0%, 0%, .15),
         0 0 20px hsla(0, 0%, 100%, .05);
-
-    --shadow-glass-no-clr:
-        inset 1px 1px 4px transparent,
-        inset -1px -1px 6px transparent,
-        0 4px 12px transparent,
-        0 0 20px transparent;
-
-    --glass-shadow-large:
-        inset 2px 2px 6px hsla(0, 0%, 100%, .25),
-        inset -2px -2px 8px hsla(0, 0%, 0%, .15),
-        0 8px 24px hsla(0, 0%, 0%, .2),
-        0 0 40px hsla(0, 0%, 100%, .08);
-
     --background-image: url('https://i.imgur.com/hpHXrym.png');
-
     --text-muted: color white !important;
-
     --text-secondary: color white !important;
-
     --custom-app-panels-height: 57.59375px;
     --gap: 20px;
 }
