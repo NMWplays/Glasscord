@@ -4000,3 +4000,10 @@ button.button_a22cb0.md_a22cb0.active_a22cb0.hasText_a22cb0 {
 .questRewardTileAsset__956c6 {
     border-radius: 20px;
 }
+
+.debugPanelStandalone__50387 {
+    background: transparent;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+}
