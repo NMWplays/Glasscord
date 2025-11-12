@@ -3949,3 +3949,50 @@ button.button_a22cb0.md_a22cb0.active_a22cb0.hasText_a22cb0 {
     background-color: transparent !important;
     box-shadow: var(--glass-shadow) !important;
 }
+
+.nameplateRightPanePreviewContainer_c50f62 {
+    background-color: transparent;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+    backdrop-filter: blur(var(--blur-strength)) brightness(var(--brightness-level));
+}
+
+.headerImage__9abb9 {
+    border-start-end-radius: 20px;
+    border-start-start-radius: 20px;
+}
+
+.profileEffect__0b5ea, .profileEffectBackground__0b5ea {
+    border-radius: 10px;
+}
+
+.closeWithCircleBackground__49fc1 {
+    background-color: transparent;
+}
+
+.button__201d5 .contents__201d5 {
+    background-image: none;
+}
+
+.closeWithCircleBackground__49fc1:hover {
+    background-color: transparent;
+}
+
+.container__6d099.threeItemBundle__6d099 .nameplatePreview__6d099 {
+    border-radius: 20px;
+}
+
+.profileEffectShopPreview__6d099 {
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.theme-dark .avatar__6d099 {
+    background: transparent;
+    box-shadow: var(--glass-shadow);
+    border-radius: 20px !important;
+}
+
+.container__6d099.threeItemBundle__6d099 .profileEffectShopPreview__6d099 {
+    border-radius: 20px;
+}
