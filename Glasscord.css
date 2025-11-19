@@ -825,7 +825,8 @@ div#\:r1u7\:,
 .placeholder__1b31f,
 .text-xs\/medium_cf4812,
 .badge_c3d04b,
-.limitedTimeBadge_c3d04b.badgeLeftAligned_c3d04b.textBadge__2b1f5.base__2b1f5.eyebrow__2b1f5.baseShapeRound__2b1f5 {
+.limitedTimeBadge_c3d04b.badgeLeftAligned_c3d04b.textBadge__2b1f5.base__2b1f5.eyebrow__2b1f5.baseShapeRound__2b1f5,
+.colorDefault_c1e9c4 .label_c1e9c4 {
     color: white !important;
 }
 
@@ -4016,4 +4017,31 @@ button.button_a22cb0.md_a22cb0.active_a22cb0.hasText_a22cb0 {
 
 .badgeLabel_aeaaeb {
     border-radius: 10px;
+}
+
+.outer_c0bea0.theme-light.images-light.user-profile-popout.custom-theme-background.custom-user-profile-theme {
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.container__6c253 {
+    background-color: transparent;
+    border: none;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.exampleMessage__6c253 {
+    border: none;
+    border-radius: 20px;
+    box-shadow: var(--glass-shadow);
+}
+
+.container__5573a.active__5573a,
+.container__5573a.warning__5573a {
+    background-color: transparent;
+}
+
+.parentContainer__5573a:hover .container__5573a.active__5573a {
+    background-color: transparent;
 }
