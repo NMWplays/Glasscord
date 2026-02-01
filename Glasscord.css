@@ -4212,3 +4212,7 @@ button.rightTrayIcon_cb9592.button__201d5.lookBlank__201d5.colorBrand__201d5.gro
     box-shadow: var(--glass-shadow);
     backdrop-filter: blur(2rem);
 }
+
+div#«rsl» {
+    box-shadow: none;
+}
