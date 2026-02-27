@@ -1,4 +1,4 @@
-# Glasscord
+# Glasscord (Currently unmaintained)
 
 <img width="2557" height="1378" alt="Glasscord Preview" src="https://github.com/user-attachments/assets/383d7790-5e70-440d-8b48-776d24999117" />
 
