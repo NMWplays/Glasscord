@@ -59,8 +59,8 @@ Once you save the file, reload discord or toggle the theme off and on again to a
 
 Credits
 
-Author: NMWplays
+Created by NMW.
 
-Version: 1.0.0
+License
 
-License: MIT
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0). See the LICENSE file for details.
